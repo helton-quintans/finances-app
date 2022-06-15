@@ -23,7 +23,7 @@ export default function HomePage() {
 
       <main>
         <section className='bg-white'>
-          <h1>Finances app</h1>
+          <h1> Bull Finances </h1>
         </section>
       </main>
     </Layout>
